@@ -1,0 +1,16 @@
+[package]
+name = "git-authl"
+version = "0.1.0"
+authors = ["Dom Rodriguez <shymega@shymega.org.uk>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "git_authl"
+
+[lib]
+name = "git_authl"
+path = "src/lib.rs"
+
+[dependencies]

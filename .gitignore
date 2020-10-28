@@ -1,2 +1,8 @@
 /vendor
 /git-authl
+
+
+# Added by cargo
+
+/target
+Cargo.lock
