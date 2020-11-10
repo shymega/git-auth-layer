@@ -1,4 +1,4 @@
-# git-authl
+# git-auth-layer
 
 A flexible, lightweight alternative to Gitolite.
 
